@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 
 
 class ArticlesOperator:
-    save_location = 'data/pages.json'
+    save_location = 'pages.json'
     BASE_URL = "https://digitalcareerinstitute.atlassian.net/wiki"
 
     PROMPT = """
